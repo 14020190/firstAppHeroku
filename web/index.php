@@ -46,7 +46,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!---End-wrap--->
 	<div class="content">
 		<div class="grid1" id="me">
-			<a href="#"><img src="images/face.gif" title="name" /></a>
+			<a href="#"><img src="images/funny-cat-face-t-shirts-men-s-premium-t-shirt.jpg" title="name" /></a>
 			<h3>Hi, I'm Nguyễn Huy Hoàng</h3>
 			<p>They say when you are missing someone that they are probably feeling the same, but I don't think it's possible for you to miss me as much as I'm missing you right now.</p>
 		</div>
