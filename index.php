@@ -97,9 +97,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</div>
 				<div class="clear"> </div>
 			</div>
-		</div>	
-		<div class="twiiter-box">
-
 		</div>
 		<div class="contact" id="contact">
 			<h3>Feed Back</h3>
