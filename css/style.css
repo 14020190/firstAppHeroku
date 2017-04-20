@@ -475,3 +475,12 @@ img{max-width:100%;}
 		font-size: 2em;
 	}
 }
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+ul {
+	list-style-type: disc;
+}
