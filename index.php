@@ -91,7 +91,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<li><a href="https://github.com/14020190/TODO-Rest-API" target="_blank">TODO 2</a></li>
 						<li><a href="https://github.com/14020190/MVC-TODO-app" target="_blank">TODO 3&4</a></li>
 					</ul>
-					<a class="button" href="#">View Project</a>
 				</div>
 				<div class="grid3-right">
 					<a href="#"><img src="images/eva.jpg" title="project-name" /></a>
@@ -100,7 +99,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 		</div>	
 		<div class="twiiter-box">
-			<p>abc</p>
+
 		</div>
 		<div class="contact" id="contact">
 			<h3>Feed Back</h3>
